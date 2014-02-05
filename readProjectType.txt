@@ -1,0 +1,3 @@
+Make a normal project that is the first template Netbeans gives you.
+
+Which is just a Java Application.
